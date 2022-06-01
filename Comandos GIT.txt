@@ -5,3 +5,11 @@ git version : obtiene la version de git instalada
 git init: crea un repositorio local desde donde ejecutamos el Comandos
 
 git status -s: muestra el estado de los archivos en la carpeta
+
+git add NOMBRE_ARCHIVO : añade archivo a la STAGING AREA
+
+git add . : manda todos los archivos a la STAGING AREA 
+
+
+git commit -m "mensaje": sirven para confirmar los cambios (nos permite viajar en el tiempo).  Manda los archivos
+                de la STAGING AREA al LOCAL REPO. La opcion -m permite enviar un mensaje 
