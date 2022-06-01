@@ -1,0 +1,7 @@
+Comandos GIT
+
+git version : obtiene la version de git instalada
+
+git init: crea un repositorio local desde donde ejecutamos el Comandos
+
+git status -s: muestra el estado de los archivos en la carpeta
