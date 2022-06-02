@@ -13,3 +13,12 @@ git add . : manda todos los archivos a la STAGING AREA
 
 git commit -m "mensaje": sirven para confirmar los cambios (nos permite viajar en el tiempo).  Manda los archivos
                 de la STAGING AREA al LOCAL REPO. La opcion -m permite enviar un mensaje 
+
+
+git log --oneline ==> muestra todos los commits realizados, con sus IDs.
+
+git reset --hard ID ==> permite volver a la version del ID
+
+git push ==> (previo commit) subir los archivos actualizados a la nube
+
+
